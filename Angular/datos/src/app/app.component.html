@@ -1,0 +1,22 @@
+{{title}}
+
+<p>Numero de Identificacion:
+    <input type="text" id="Numero_Identificacion" class="fadeIn One" placeholder="Numero_Identificacion">
+    </p>
+    <p>Nombre completo:
+    <input type="text" id="fullname" class="fadeIn second" placeholder="Nombre completo">
+    </p>
+    <p>Fecha de nacimiento:
+    <input type="date" id="birth" class="fadeIn third" placeholder="birth">
+    </p>
+    <input type="submit" id="enviar" class="fadeIn fourth" routerLink='/nuevo' value="Enviar">
+    <p>
+    <input type="submit" id="Ver" class="fadeIn five"  routerLink='/ver-tabla' value="Ver Tabla">
+    </p>
+    <p>
+    <input type="submit" id="modificar" class="fadeIn six" routerLink='/editar' value="Modificar Registro">
+    </p>
+    <p>
+    <input type="submit" id="borrar" class="fadeIn six" routerLink='/borrar' value="Borrar Registro">
+    </p>
+<router-outlet></router-outlet>
