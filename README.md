@@ -23,3 +23,4 @@ lograra visualizar el formulario creado
 Presione click derecho en la opcion inspeccionar
 seleccione la ventana console
 lograra evidenciar la correcta comunicacion del llamado de la base de datos hacia el servidor y como trae la consulta al front.
+ 
