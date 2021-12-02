@@ -1,6 +1,7 @@
 # Prueba_2_Banco_Fronted_Backend
 Descargue los archivos adjuntos
 dirijase a la carpeta donde realizo la descarga de los archivos
+ejecuta el archivo que dice prueba1.sql para descargar y tener la base de datos
 Abra la consola de comandos (cmd), ingrese a la carpeta donde se encuentran descargados los archivos 
 mediante el comando cd C:ruta de la carpeta
 ejecute el comando npm run start para ejecutar el archivo package.json el cual ejecutara node js
